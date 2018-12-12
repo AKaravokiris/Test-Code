@@ -21,5 +21,6 @@ namespace OdeToFood
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+
     }
 }
