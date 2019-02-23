@@ -11,6 +11,8 @@ namespace TogetherForever
         static void Main(string[] args)
         {
             /* Check in from Manolis laptop */
+
+            // Change on 23/2/2019
         }
     }
 }
